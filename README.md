@@ -1,6 +1,6 @@
 # Rhino
 
-<b>Nome - Componentes:</b>
-Marcos Adriano Rocha de Oliveira - GitHub nickname: marcosadriano99 - Matrícula: 20141011110298
-Paulo Victor Freire Ribeiro Damasceno - GitHub nickname:
+<b>Nome dos componentes:</b><br/>
+Marcos Adriano Rocha de Oliveira - <b>GitHub nickname:</b> marcosadriano99 - <b>Matrícula:</b> 20141011110298
+Paulo Victor Freire Ribeiro Damasceno - <b>GitHub nickname:</b> - <b>Matrícula:</b> 2014101111
 
